@@ -1,0 +1,1 @@
+Skinuti https://1drv.ms/u/s!Ahe9wUBv0NkqgR5ANao_42hY4UA4 da bi projekat radio i raspakovati u folder gde se nalazi i sad.py datoteka. Nisam mogao to da postavim na github jer je veci od 25MB koliko je max za datoteku na github-u.
